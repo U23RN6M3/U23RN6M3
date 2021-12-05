@@ -1,8 +1,4 @@
-`- 👋 Hi, I’m @U23RN6M3`
-`- 👀 I’m interested in game developing`
-`- 🌱 I’m currently learning python`
-
-`- yeah thats thats about it`
+its about drive its about power we stay hungry we devour put in the work put in the hours and take whats ours
 
 <!---
 U23RN6M3/U23RN6M3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
